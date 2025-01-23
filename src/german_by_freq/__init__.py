@@ -8,7 +8,7 @@ else:
 
 try:
     # Change here if project is renamed and does not equal the package name
-    dist_name = "german-by-freq"
+    dist_name = "german_by_freq"
     __version__ = version(dist_name)
 except PackageNotFoundError:  # pragma: no cover
     __version__ = "unknown"

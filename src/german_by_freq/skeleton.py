@@ -45,7 +45,7 @@ def fib(n):
 
     Args:
       n (int): integer
-
+p
     Returns:
       int: n-th Fibonacci number
     """
@@ -76,7 +76,7 @@ def parse_args(args):
     parser.add_argument(
         "--version",
         action="version",
-        version=f"german-by-freq {__version__}",
+        version=f"german_by_freq {__version__}",
     )
     parser.add_argument(dest="n", help="n-th Fibonacci number", type=int, metavar="INT")
     parser.add_argument(

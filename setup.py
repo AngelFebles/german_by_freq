@@ -1,5 +1,5 @@
 """
-    Setup file for german-by-freq.
+    Setup file for german_by_freq.
     Use setup.cfg to configure your project.
 
     This file was generated with PyScaffold 4.6.

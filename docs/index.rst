@@ -1,8 +1,8 @@
 ==============
-german-by-freq
+german_by_freq
 ==============
 
-This is the documentation of **german-by-freq**.
+This is the documentation of **german_by_freq**.
 
 .. note::
 
