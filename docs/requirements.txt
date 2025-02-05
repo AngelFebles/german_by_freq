@@ -1,5 +1,7 @@
-# Requirements file for ReadTheDocs, check .readthedocs.yml.
-# To build the module reference correctly, make sure every external package
-# under `install_requires` in `setup.cfg` is also listed here!
-sphinx>=3.2.1
-# sphinx_rtd_theme
+beautifulsoup4==4.12.3
+german_by_freq==0.0.post1.dev3+ga7ee5da.d20250124
+german_by_freq.egg==info
+importlib_metadata==8.6.1
+pandas==2.2.3
+Requests==2.32.3
+xml

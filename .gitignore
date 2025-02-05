@@ -52,3 +52,8 @@ MANIFEST
 .venv*/
 .conda*/
 .python-version
+
+
+#Output files
+src/data/*
+src/german_by_freq/sort2.py
